@@ -33,3 +33,7 @@ The phone number on the page (`0800 123 4567`) is a placeholder; replace it befo
 ## Author
 
 **Adamu Abubakar** · [adamu.tech](https://adamu.tech) · [contact@adamu.tech](mailto:contact@adamu.tech)
+
+## License
+
+All rights reserved — see [LICENSE](LICENSE).
